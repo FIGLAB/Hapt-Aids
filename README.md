@@ -1,4 +1,4 @@
-# Kinethreads: Soft Full-Body Haptic Exosuit using Low-Cost Motor-Pulley Mechanisms
-This is the repository for Kinethreads, presented at UIST 2025. Check out the [full paper here](https://drive.google.com/file/d/1RWJZLoprh9HyUMLJXVf4V8MswR2cnfrb/view?usp=sharing), as well as our [video](https://www.youtube.com/watch?v=4ev0w_tbuw8)!
+# Hapt-Aids: Self-Powered, On-Body Haptics for Activity Monitoring
+This is the repository for Hapt-Aids, presented at UBICOMP 2025. Check out the [full paper here](https://drive.google.com/file/d/1-sPkwGhYdYCn-X2jhVIx13SwtfONY48X/view?usp=sharing)!
 
-Codebase will be updated soon!
+Design Files will be updated soon!
